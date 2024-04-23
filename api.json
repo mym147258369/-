@@ -1,84 +1,84 @@
-//关注微信公众号：奇奇乐分享，发送“本地包”，获取本地包更新链接与图文教程。
+关注找个话唠做老婆快手
 
 {
-    "spider": "./pg.jar",
-    "sites": [
+“蜘蛛”:/pg.jar“，“蜘蛛”: "./pg.jar“,
+“站点”:【“站点”: [
         {
-            "key": "豆瓣",
-            "name": "豆瓣",
-            "type": 3,
-            "api": "csp_Douban",
-            "searchable": 0,
-            "changeable": 1,
-            "indexs": 1,
-            "ext": "./lib/douban.json"
+"密钥": "豆瓣","钥匙": "豆瓣",
+"名称": "豆瓣","名称": "豆瓣",
+【类型】:3、"类型": 3,
+“API”:“CSP _豆瓣”，“空气污染指数“: “csp _豆瓣“,
+“可搜索”:0，“可搜索“: 0,
+【多变】:1、“多变”: 1,
+【指数】:1，“索引“: 1,
+“ext“:“。/lib/douban.json“分机“: "./lib/douban.json
         },
         {
-            "key": "网盘配置",
-            "name": "网盘及彈幕配置",
-            "type": 3,
-            "api": "csp_Config",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "./lib/tokenm.json"
+"密钥": "网盘配置","钥匙": "网盘配置",
+"名称": "网盘及彈幕配置","名称": "网盘及彈幕配置",
+【类型】:3、"类型": 3,
+“API“:“CSP _ Config“，“空气污染指数“: “csp_Config“,
+“可搜索”:0，“可搜索“: 0,
+【可变】:0，“多变”: 0,
+“ext“:“。/lib/tokenm.json“分机“: "./lib/tokenm.json
         },
         {
-            "key": "Local",
-            "name": "本地",
-            "type": 3,
-            "api": "csp_Local"
+“关键”:“本地”，"钥匙": “本地”,
+"名称": "本地","名称": "本地",
+【类型】:3、"类型": 3,
+“API“:“CSP _ Local““空气污染指数“: “csp_Local“
         },
         {
-            "key": "lf_js_search",
-            "name": "☘️︎豆瓣|路飞",
-            "type": 3,
-            "searchable": 0,
-            "changeable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "api": "./lib/路飞豆瓣.js"
+“key“:“lf _ js _ search“，"钥匙": “低频_ js _搜索“,
+【名称】:“☘️︎豆瓣 路飞","name": "☘️︎豆瓣|路飞",
+【类型】:3、"类型": 3,
+“可搜索”:0，“可搜索“: 0,
+【可变】:0，“多变”: 0,
+“快速搜索”:0，“快速搜索”: 0,
+“可过滤”:1、“可过滤“: 1,
+“api“:“。/lib/路飞豆瓣。js ""api": "./lib/路飞豆瓣.js"
         },
         {
-            "key": "PushShare",
-            "name": "我的资源分享",
-            "type": 3,
-            "api": "csp_PushShare",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 0,
-            "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.txt$$$db$$$1",
-            "style": {
-                "type": "list",
-                "ratio": 1.1
+“关键”:“推送分享”，"钥匙": “PushShare”,
+"名称": "我的资源分享","名称": "我的资源分享",
+【类型】:3、"类型": 3,
+“API“:“CSP _ push share“，“空气污染指数“: “csp_PushShare“,
+【可搜索】:1、“可搜索“: 1,
+「快速搜索」:1，“快速搜索”: 1,
+【多变】:1、“多变”: 1,
+“可过滤”:0，“可过滤“: 0,
+【超时】:60，"timeout": 60,
+“ext“:“。/lib/tokenm.json$$$。/lib/pushshare.txt$$$db$$$1“，"ext": "./lib/tokenm.json$$$./lib/pushshare.txt$$$db$$$1",
+“样式”:{"style": {
+“类型”:“列表”，"type": "list",
+【比例】:1.1"ratio": 1.1
             }
         },
         {
-            "key": "AliShare",
-            "name": "阿里云盘影视分享",
-            "type": 3,
-            "api": "csp_AliShare",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 0,
-            "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/alishare.txt$$$db$$$1",
-            "style": {
-                "type": "list",
-                "ratio": 1.1
+“关键”:“阿里什尔”，"key": "AliShare",
+"名称": "阿里云盘影视分享","name": "阿里云盘影视分享",
+【类型】:3、"type": 3,
+“API“:“CSP _ AliShare“，"api": "csp_AliShare",
+【可搜索】:1、"searchable": 1,
+「快速搜索」:1，"quickSearch": 1,
+【多变】:1、"changeable": 1,
+“可过滤”:0，"filterable": 0,
+【超时】:60，"timeout": 60,
+“ext“:“。/lib/tokenm.json$$$。/lib/alishare.txt$$$db$$$1“，"ext": "./lib/tokenm.json$$$./lib/alishare.txt$$$db$$$1",
+“样式”:{"style": {
+“类型”:“列表”，
+【比例】:1.1
             }
         },
         
-    {"key":"yydsys","name":"玩你老哥|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://tv.yydsys.top/$$$null$$$1$$$./lib/wogg.json"}, 
+{“key“:“yydsys“，“name“:“玩你老哥 网盘“，“类型“:3，“API“:“CSP _ Wobg“，“快速搜索“:1，“可更改“:1，“可过滤“:1，“超时“:60，“ext“:“。/lib/token m . JSON $ $ $ https://TV . yydsys . top/$ $ null $ $ $ 1 $ $。/lib/wogg . JSON“}，
         {
-            "key": "AliShareEBook",
-            "name": "阿里云盘书籍分享",
-            "type": 3,
-            "api": "csp_AliShare",
-            "searchable": 0,
-            "quickSearch": 0,
+“重点”:“AliShareEBook”，
+"名称": "阿里云盘书籍分享",
+【类型】:3、
+“API“:“CSP _ AliShare“，
+“可搜索”:0，
+“快速搜索”:0，
             "changeable": 0,
             "filterable": 0,
             "timeout": 60,
